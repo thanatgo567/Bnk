@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'bnk'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'BNK48.'
 
 # This description is used to generate tags and improve search results.
@@ -24,11 +24,11 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/thanatgo567/Bnk.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'thanatgo123@gmail.com' => 'thanaponat123@gmail.com' }
+  s.author           = { 'thanatgo567@gmail.com' => 'thanatgo567@gmail.com' }
   s.source           = { :git => 'https://github.com/thanatgo567/Bnk.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'Classes/*.{h,m,swift}'
   
