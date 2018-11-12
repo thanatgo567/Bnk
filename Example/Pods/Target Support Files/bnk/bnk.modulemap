@@ -1,0 +1,6 @@
+framework module bnk {
+  umbrella header "bnk-umbrella.h"
+
+  export *
+  module * { export * }
+}

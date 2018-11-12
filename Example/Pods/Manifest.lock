@@ -1,0 +1,16 @@
+PODS:
+  - bnk (0.1.0)
+
+DEPENDENCIES:
+  - bnk (from `../`)
+
+EXTERNAL SOURCES:
+  bnk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  bnk: 9edba0bc0d7c59f91c11f6ed72fcfc42fa68fbeb
+
+PODFILE CHECKSUM: eea244f87c4c7f837c081bccc90eb4300719ee75
+
+COCOAPODS: 1.5.3
