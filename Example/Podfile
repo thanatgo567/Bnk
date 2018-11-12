@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'bnk_Example' do
+  pod 'bnk', :path => '../'
+
+  target 'bnk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
